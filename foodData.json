@@ -1,0 +1,56 @@
+[
+  {
+    "category": "milkbased",
+    "name": "Rasgulla",
+    "img": "images/rasgulla.jpg",
+    "option": [
+      { "half": "50", "full": "90" }
+    ],
+    "description": "Soft and spongy cottage cheese balls soaked in sugar syrup."
+  },
+  {
+    "category": "milkbased",
+    "name": "Rasmalai",
+    "img": "images/rasmalai.jpg",
+    "option": [
+      { "half": "60", "full": "110" }
+    ],
+    "description": "Soft paneer discs soaked in chilled, sweetened milk flavored with cardamom and saffron."
+  },
+  {
+    "category": "flourbased",
+    "name": "Gulab Jamun",
+    "img": "images/gulab_jamun.jpg",
+    "option": [
+      { "half": "40", "full": "75" }
+    ],
+    "description": "Deep-fried dough balls soaked in rose flavored sugar syrup."
+  },
+  {
+    "category": "flourbased",
+    "name": "Balushahi",
+    "img": "images/balushahi.jpg",
+    "option": [
+      { "half": "45", "full": "80" }
+    ],
+    "description": "Flaky, deep fried pastry soaked in sugar syrup."
+  },
+  {
+    "category": "khoa",
+    "name": "Kaju Katli",
+    "img": "images/kaju_katli.jpg",
+    "option": [
+      { "half": "120", "full": "220" }
+    ],
+    "description": "Smooth cashew fudge made from ground cashews and sugar."
+  },
+  {
+    "category": "khoa",
+    "name": "Peda",
+    "img": "images/peda.jpg",
+    "option": [
+      { "half": "55", "full": "100" }
+    ],
+    "description": "Soft milk fudge flavored with cardamom and garnished with pistachios."
+  }
+]
